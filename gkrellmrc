@@ -8,7 +8,7 @@ chart_in_color_grid  = #DCF916
 chart_out_color      = #DCF916
 chart_out_color_grid = #BDD6B4
 
-bg_grid_mode = 0
+bg_grid_mode = 1
 
 large_font = -adobe-helvetica-medium-r-normal-*-*-80-*-*-p-*-iso8859-1
 normal_font = -adobe-helvetica-medium-r-normal-*-*-80-*-*-p-*-iso8859-1
