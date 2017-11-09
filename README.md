@@ -1,6 +1,6 @@
 # yummiyogurt-gkrellm
 
-<img src="https://chriscarey.com/graphics/skins/gkrellm/gkrellm-tivo-1.gif" />
+<img src="https://chriscarey.com/graphics/skins/gkrellm/yummiyogurt-100px.png" />
 
 Installation
 ==============
