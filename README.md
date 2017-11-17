@@ -4,7 +4,7 @@
 
 Installation
 ==============
-- Install GKrellM. 'sudo apt-get install gkrellm' or `sudo yum install gkrellm`
+- Install GKrellM. `sudo apt-get install gkrellm` or `sudo yum install gkrellm`
 - `git clone https://github.com/chriscareycode/yummiyogurt-gkrellm.git`
 - Launching gkrellm will create the .gkrellm2/themes folder, or you need to create it yourself. `mkdir -p .gkrellm2/themes`
 - `mv yummiyogurt-gkrellm .gkrellm2/themes/yummiyogurt`
